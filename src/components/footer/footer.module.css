@@ -1,0 +1,11 @@
+.containter {
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.imgContainer {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
